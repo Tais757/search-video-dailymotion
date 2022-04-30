@@ -10,7 +10,7 @@
 
 body {
   margin: 0;
-  background-color: #24252a;
+  background-image: linear-gradient(45deg, #845EC2, #e3b3f0, #0ce2bf);
 }
 
 #container {
@@ -26,7 +26,7 @@ body {
 #video-form input {
   width: 400px;
   height: 30px;
-  border: 2px solid #ccc;
+  border: 2px solid rgb(49, 48, 48);
   border-radius: 15px;
   text-align: center;
   margin-right: 10px;
@@ -38,7 +38,7 @@ body {
   border: none;
   border-radius: 10px;
   padding: 10px 20px;
-  color: white;
+  color: black;
   background-color: #038aff;
   font-family: "title";
   font-size: 100%;
@@ -59,7 +59,7 @@ body {
 
 .video-thumbnail h5 {
   font-family: "title";
-  color: white;
+  color: black;
 }
 
 .video-thumbnail img {
